@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "758956227334",
+    "firebase_url": "https://test-app-911-default-rtdb.firebaseio.com",
+    "project_id": "test-app-911",
+    "storage_bucket": "test-app-911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758956227334:android:b1fc5dc574a1bf4c16bc87",
+        "android_client_info": {
+          "package_name": "com.bflaretechnology.faceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDEjBm4VDhqnd3LgpQ3QT0DbOh-vhCu0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758956227334:android:242301cd385eb3fe16bc87",
+        "android_client_info": {
+          "package_name": "com.bhaskar.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDEjBm4VDhqnd3LgpQ3QT0DbOh-vhCu0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758956227334:android:2805b1cf56b4c87d16bc87",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDEjBm4VDhqnd3LgpQ3QT0DbOh-vhCu0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
